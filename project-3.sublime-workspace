@@ -1,0 +1,630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"mag",
+				"margin-left\tproperty"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"n",
+				"unset\tbackground-color"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"col",
+				"container-fluid"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"ten",
+				"tensp"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fo",
+				"formatNumber"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"co",
+				"col-md-3"
+			],
+			[
+				"cn",
+				"container-fluid"
+			],
+			[
+				"cod",
+				"col-md-3"
+			],
+			[
+				"a",
+				"auto\tpadding"
+			],
+			[
+				"col-md",
+				"col-md-4"
+			],
+			[
+				"c",
+				"container-fuild"
+			],
+			[
+				"con",
+				"form-control"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"f",
+				"form-group"
+			],
+			[
+				"inp",
+				"inputEmail3"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"fom",
+				"form-group"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"ca",
+				"cauhinh"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"t",
+				"tr\tTag"
+			],
+			[
+				"tt",
+				"tt\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"magi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"cin",
+				"container-fluid"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"un",
+				"under\ttext-underline-position"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"spac",
+				"border-spacing\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"bordr",
+				"border-right\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"F",
+				"float\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"Adm",
+				"Admin_controller"
+			],
+			[
+				"Ad",
+				"Admin_controller"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ce",
+				"cellpadding\tAttr"
+			],
+			[
+				"cp",
+				"cellspacing\tAttr"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"rede",
+				"redirect"
+			],
+			[
+				"sign",
+				"signin"
+			],
+			[
+				"g",
+				"gioitinh"
+			],
+			[
+				"pw",
+				"pw1"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"lis",
+				"list_products"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/css/classed.css",
+			"settings":
+			{
+				"buffer_size": 2154,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 2064,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/product.blade.php",
+			"settings":
+			{
+				"buffer_size": 523,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Xampp/htdocs/project-3",
+		"/D/Xampp/htdocs/project-3/app",
+		"/D/Xampp/htdocs/project-3/app/Http",
+		"/D/Xampp/htdocs/project-3/app/Http/Controllers",
+		"/D/Xampp/htdocs/project-3/public",
+		"/D/Xampp/htdocs/project-3/public/css",
+		"/D/Xampp/htdocs/project-3/resources",
+		"/D/Xampp/htdocs/project-3/resources/views",
+		"/D/Xampp/htdocs/project-3/resources/views/Admin",
+		"/D/Xampp/htdocs/project-3/routes"
+	],
+	"file_history":
+	[
+		"/D/Xampp/htdocs/project-3/resources/views/signin.blade.php",
+		"/D/Xampp/htdocs/project-3/resources/views/register.blade.php",
+		"/D/Xampp/htdocs/project-3/resources/views/list-products.blade.php",
+		"/D/Xampp/htdocs/project-3/resources/views/cart.blade.php",
+		"/D/Xampp/htdocs/project-3/resources/views/order.blade.php",
+		"/D/Xampp/htdocs/project-3/routes/web.php",
+		"/D/Xampp/htdocs/project-3/app/Http/Controllers/C_controller.php",
+		"/D/Xampp/htdocs/project-3/resources/views/test.blade.php",
+		"/D/Xampp/htdocs/project-3/resources/views/index.blade.php",
+		"/D/Xampp/htdocs/project-3/public/css/classed.css",
+		"/D/Xampp/htdocs/project-3/resources/views/Admin/index.blade.php",
+		"/D/Xampp/htdocs/project-3/app/Http/Controllers/Admin_controller.php",
+		"/D/Xampp/htdocs/project-3/public/css/admin-style.css",
+		"/D/Xampp/htdocs/project-3/resources/views/Admin/accessories.blade.php",
+		"/D/Xampp/htdocs/project-3/resources/views/Admin/products.blade.php",
+		"/D/Xampp/htdocs/project-3/resources/views/Admin/option.blade.php",
+		"/D/Xampp/htdocs/project-3/resources/views/Admin/signin.blade.php",
+		"/D/Learn FullStack/Thiết kế web/web-1705/web1/Web1.html",
+		"/C/Users/NgocLoc/OneDrive/Pictures/51193507_2253622141344389_4367861914739408896_n.jpg",
+		"/D/Xampp/htdocs/project-3/resources/views/product.blade.php",
+		"/D/Xampp/htdocs/project-3/app/Accessories.php",
+		"/D/Xampp/htdocs/project-3/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php",
+		"/D/Xampp/htdocs/project-3/resources/views/Admin/bands.blade.php",
+		"/D/Xampp/htdocs/project-3/resources/views/Admin/insert-item.blade.php",
+		"/D/Xampp/htdocs/project-3/app/Bill.php",
+		"/D/Xampp/htdocs/project-3/app/Member.php",
+		"/D/Xampp/htdocs/project-3/app/Http/Controllers/Controller.php",
+		"/D/Xampp/htdocs/project-3/app/Listpurchased.php",
+		"/D/Xampp/htdocs/project-3/resources/views/checkout.blade.php",
+		"/D/Xampp/htdocs/project-3/app/Products.php",
+		"/C/Users/NgocLoc/OneDrive/Máy tính/C_controller.php",
+		"/D/Xampp/htdocs/project-3/resources/views/list-bands.blade.php",
+		"/D/Xampp/htdocs/project-3/index.blade.php",
+		"/D/Xampp/htdocs/project-3/app/Bands.php",
+		"/D/Xampp/htdocs/project-3/app/Http/Controllers/Auth/C_controller.php",
+		"/D/Xampp/htdocs/project-3/app/Providers/products.php",
+		"/D/Xampp/htdocs/project-3/.gitattributes"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tr",
+			"td",
+			"\tpublic function test() {\n\t\treturn view ('test');\n\t}",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\Xampp\\htdocs\\project-3"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/css/classed.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								647,
+								647
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 199.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "resources/views/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/product.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}

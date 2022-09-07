@@ -1,0 +1,12 @@
+.row { margin: 0px 0px; }
+.form-control { margin: 10px 5px;}
+
+.option .child td:nth-child(3){ width: 16%;}
+.products { font-size: 13px; }
+.products .img { width: 80px; height: 80px;}
+
+.edit-item {  }
+.item-img {  }
+.slide img { width: 150px; height: 150px; }
+.slide-show {  }
+.slide-show img { width: 500px; height: 500px; }
